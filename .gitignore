@@ -1,6 +1,3 @@
-# Custom Folders and Files
-ph_helper/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
