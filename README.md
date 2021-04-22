@@ -12,8 +12,8 @@
 Python 3.7.0 required. 
 
 ```bash
-$ git clone https://github.com/onewhosaynope/ph_scrapper.git
-$ cd ph_scrapper
+$ git clone https://github.com/onewhosaynope/ProductHuntScrapper.git
+$ cd ProductHuntScrapper
 $ pip install -r requirements.txt
 ```
 Fill <b>data.py</b> file with your credentials and run <b>scrapper.py</b>!
