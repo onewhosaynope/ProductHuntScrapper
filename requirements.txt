@@ -1,0 +1,4 @@
+langdetect
+schedule
+pyTelegramBotApi
+simplejson
